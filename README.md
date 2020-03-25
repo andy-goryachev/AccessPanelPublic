@@ -36,7 +36,8 @@
 * advanced search with regex, wildcards, and highlights 
 * date queries
 * extract and plot variables
-* aligning of multiple log files
+* file alignment
+* table view for CSV/TSV files
 
 
 ## VNC Viewer
