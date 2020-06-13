@@ -6,8 +6,8 @@
 * multiple ssh terminal windows
 * log viewer
 * vnc viewer
-* remote file browser
-* server control tools
+* file manager
+* linux configuration tools
 
 
 ## Security
@@ -56,7 +56,7 @@
 * file preview
 
 
-## Server Control Tools
+## Linux Configuration Tools
 
 * GUI for Linux components (iptables, nginx, apache, ...)
 * multi-server command executor with variables and scripting
