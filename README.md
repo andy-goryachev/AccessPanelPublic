@@ -3,11 +3,13 @@
 ## Features
 
 * encrypted credentials, keys, temporary files
-* multiple ssh terminal windows
 * log viewer
+* multiple ssh terminals
 * vnc viewer
 * file manager
+* script runner
 * linux configuration tools
+
 
 
 ## Security
@@ -16,14 +18,6 @@
 * temporary files are encrypted with ephemeral keys
 * configurable application window lock
 
-
-## SSH Terminals
-
-![application screenshot](doc/terminal.png)
-
-* unicode support
-* workspace remembers and restores terminal connections and layout
-* multiple terminals, tabbed or in external window(s)
 
 
 ## Log Viewer
@@ -40,6 +34,17 @@
 * table view for CSV/TSV files
 
 
+
+## SSH Terminals
+
+![application screenshot](doc/terminal.png)
+
+* unicode support
+* workspace remembers and restores terminal connections and layout
+* multiple terminals, tabbed or in external window(s)
+
+
+
 ## VNC Viewer
 
 ![vnc viewer](doc/vnc-viewer.png)
@@ -48,12 +53,22 @@
 * remembers layout
 
 
+
 ## File Manager
 
 * local and remote filesystems
 * synchronizes directories
 * copy, rename, move directories and files
 * file preview
+
+
+
+## Script Runner
+
+* a convenient UI for running commands on one or more hosts
+* variables, secrets
+* captures timestamps
+
 
 
 ## Linux Configuration Tools
@@ -67,4 +82,4 @@
 ## Other Features
 
 * workspace remembers and reloads sessions and files
-
+* history view for convenience or audit logging
