@@ -91,7 +91,7 @@ Access Panel requires java 8+ with JavaFX.
 
 Download:
 
-[AccessPanel.jar](blob/master/release/AccessPanel.jar)
+[AccessPanel.jar](https://github.com/andy-goryachev/AccessPanelPublic/blob/master/release/AccessPanel.jar)
 
 [Azul JDK FX](https://www.azul.com/downloads/zulu-community/?version=java-11-lts&package=jdk-fx)
 
