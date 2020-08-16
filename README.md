@@ -83,3 +83,21 @@
 
 * workspace remembers and reloads sessions and files
 * history view for convenience or audit logging
+
+
+## Try It
+
+Access Panel requires java 8+ with JavaFX.  
+
+Download:
+
+[AccessPanel.jar](blob/master/release/AccessPanel.jar)
+
+[Azul JDK FX](https://www.azul.com/downloads/zulu-community/?version=java-11-lts&package=jdk-fx)
+
+Launch:
+
+ java -jar AccessPanel.jar
+
+
+
