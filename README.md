@@ -35,13 +35,13 @@
 
 
 
-## SSH Terminals
+## SSH Terminal
 
-![application screenshot](doc/terminal.png)
+![ssh terminal](doc/terminal.png)
 
 * unicode support
 * workspace remembers and restores terminal connections and layout
-* multiple terminals, tabbed or in external window(s)
+* multiple terminal windows
 
 
 
