@@ -32,7 +32,7 @@
 * extract and plot variables
 * file alignment
 * table view for CSV/TSV files
-
+* run SQL queries in the table view
 
 
 ## SSH Terminal
