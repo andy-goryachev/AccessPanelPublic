@@ -82,12 +82,14 @@
 ## Other Features
 
 * workspace remembers and reloads sessions and files
-* history view for convenience or audit logging
+* history view for convenience and/or audit
 
 
 ## Try It
 
-Access Panel requires java 8+ with JavaFX.  Download:
+Access Panel requires java 8+ with JavaFX.
+
+Download:
 
 * [AccessPanel.jar](https://github.com/andy-goryachev/AccessPanelPublic/tree/master/releases)
 
