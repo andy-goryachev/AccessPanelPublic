@@ -15,7 +15,7 @@
 ## Security
 
 * credentials, keys, local files are **encrypted locally**
-* temporary files are encrypted with ephemeral keys
+* encrypted temporary files
 * configurable application window lock
 
 
