@@ -31,7 +31,7 @@
 * date queries
 * extract and plot variables
 * file alignment
-* table view for CSV/TSV files
+* table view
 * run SQL queries in the table view
 
 
