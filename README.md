@@ -93,7 +93,7 @@ Download:
 
 * [AccessPanel.jar](https://github.com/andy-goryachev/AccessPanelPublic/tree/master/releases)
 
-* [Azul JDK FX](https://www.azul.com/downloads/zulu-community/?version=java-11-lts&package=jdk-fx)
+* [Azul JDK FX](https://www.azul.com/downloads/?version=java-17-lts&package=jdk-fx)
 
 Launch:
 
