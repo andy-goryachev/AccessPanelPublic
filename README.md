@@ -87,7 +87,7 @@
 
 ## Try It
 
-Access Panel requires java 8+ with JavaFX.
+Access Panel requires java 17+ with JavaFX.
 
 Download:
 
